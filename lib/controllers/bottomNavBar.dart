@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../components/account/accountPage.dart';
-import '../components/feed/feedPage.dart';
-import '../components/home/homePage.dart';
-import '../components/notification/notificationPage.dart';
+import '../screens/account/accountPage.dart';
+import '../screens/feed/feedPage.dart';
+import '../screens//home/homePage.dart';
+import '../screens/notification/notificationPage.dart';
 
 class BottomNavBar extends StatefulWidget {
   BottomNavBar({Key key}) : super(key: key);

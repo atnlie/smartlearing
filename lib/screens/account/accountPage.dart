@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './SelectCards.dart';
+import '../../components/account/SelectCards.dart';
 
 class AccountPage extends StatelessWidget {
   @override
